@@ -29,5 +29,9 @@ To install and run the app:
   yarn ios
 ```
 
+## Techs
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+
 ##
 Made With ❤️ & React Native by [Leonardo Alves](https://github.com/leo-pro)
