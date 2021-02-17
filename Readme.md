@@ -1,4 +1,4 @@
-## Search Github repositories Mobile
+<h2 align="center"> 📱 Search Github repositories Mobile </h2>
 The objective of this project is to study mobile technologies, integrating the Github API with an application in React Native. In the search field it is possible to search for the name of the Github user.
 Some more features:
 * Component styling with CSS-in-JS (Styled Components)
